@@ -6,7 +6,6 @@ Delete the first digit and the closest non-digit character to its left.
 Return the resulting string after removing all digits.
 
 
-
 Example 1:
 
 Input: s = "abc"
