@@ -15,7 +15,6 @@ Write a solution to find the second highest distinct salary from the Employee ta
 The result format is in the following example.
 
 
-
 Example 1:
 
 Input:
